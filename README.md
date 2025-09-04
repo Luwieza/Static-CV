@@ -1,4 +1,5 @@
 # Luwie’s CV – Static Site
+[![Home Banner](images/![alt text](images/welcome_page.png)](https://luwieza.github.io/Static-CV/)
 
 A clean, single-page curriculum vitae built with **HTML** and **CSS**—no frameworks, no build step. Quick to load, easy to host, and simple to maintain.
 
